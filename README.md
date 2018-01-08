@@ -3,13 +3,13 @@
   Hey Dan! I hope you like your new theme. There are a few quick things you need to do:
   <ol>
     <li>
-      Click on the file 'dan-theme' in a new tab, then click the 'raw' button. Hit command-a to copy all code
+      Click on the file 'dan-theme' in a new tab, then click the 'raw' button. Hit command-a then command-c to copy all code
     </li>
     <li>
       Go to your tumblr blog and click on the palette button in the upper right corner
     </li>
     <li>
-      Go to 'edit html' and replace you current code with the new code from the dan-theme file and save
+      Go to 'edit html' and hit command-a then command-v to replace your old code with the new code
     </li>
     <li>
       Add your avatar pic twice. So first under 'appearance options' and then again under 'theme options'
