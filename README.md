@@ -1,5 +1,4 @@
 # tumblr-theme
-Tumblr theme for dan
 
   Hey Dan! I hope you like your new theme. There are a few quick things you need to do:
   <ol>
