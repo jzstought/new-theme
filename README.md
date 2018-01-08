@@ -9,7 +9,7 @@
       Go to your tumblr blog and click on the palette button in the upper right corner
     </li>
     <li>
-      Go to 'edit html' and hit command-a then command-v to replace your old code with the new code
+      Go to 'edit html' and hit command-a then command-v to replace your old code with the new code. You can preview it first to know I'm not trolling you :) then hit save
     </li>
     <li>
       Add your avatar pic twice. So first under 'appearance options' and then again under 'theme options'
