@@ -12,7 +12,7 @@
       Go to 'edit html' and hit command-a then command-v to replace your old code with the new code. You can preview it first to know I'm not trolling you :) then hit save
     </li>
     <li>
-      Add your avatar pic twice. So first under 'appearance options' and then again under 'theme options'
+      Add your avatar pic twice. First under 'appearance options' and then again under 'theme options'
     </li>
     <li>
       Turn ON 'infinte scrolling' under 'theme options' and save
